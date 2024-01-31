@@ -1,0 +1,26 @@
+.bg-container {
+  background-color: #475569;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+}
+.layout-heading {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+}
+.label-El {
+  color: #e2e8f0;
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding-top: 15px;
+  padding-bottom: 14px;
+  font-weight: bold;
+}

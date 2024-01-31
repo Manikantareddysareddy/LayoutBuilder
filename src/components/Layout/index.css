@@ -1,0 +1,16 @@
+.layout-container {
+  background-color: #ffffff;
+  height: 100vh;
+  margin-bottom: 100px;
+  width: 70vw;
+  margin-left: 100px;
+}
+
+@media (max-width: 577px) {
+  .layout-container {
+    background-color: #ffffff;
+    height: 100vh;
+    margin-left: 0px;
+    margin-bottom: 100px;
+  }
+}

@@ -1,0 +1,30 @@
+.footer-container {
+  background-color: #cbd5e1;
+
+  background-size: cover;
+}
+.footer-heading {
+  color: #64748b;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 40px;
+  font-size: 40px;
+  font-weight: bold;
+}
+@media (max-width: 577px) {
+  .footer-container {
+    background-color: #cbd5e1;
+    background-size: cover;
+    width: 90vw;
+
+    margin-left: 20px;
+  }
+  .footer-heading {
+    color: #64748b;
+    font-family: 'Roboto';
+    text-align: center;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+  }
+}
